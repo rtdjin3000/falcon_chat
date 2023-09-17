@@ -1,0 +1,6 @@
+OSError:[WinError 10048]
+
+Solution: 
+run on terminal: netstat -aon
+Identify PID
+Fo to Taskbar and end task
