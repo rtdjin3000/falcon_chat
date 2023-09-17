@@ -33,6 +33,3 @@ cd langchain-falcon-chainlit
    ```
    chainlit run langchain_falcon.py -w
    ```
-
-## Disclaimer
-This is test project and is presented in my youtube video to learn new stuffs using the available open source projects and model. It is not meant to be used in production as it's not production ready. You can modify the code and use for your usecases ✌️
